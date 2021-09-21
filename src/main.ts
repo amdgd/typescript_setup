@@ -1,0 +1,1 @@
+console.log('📢 [main.ts:1]', "hello")
